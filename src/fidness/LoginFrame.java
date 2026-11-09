@@ -16,7 +16,7 @@ public class LoginFrame extends JFrame {
         this.re = re;
         this.rr = rr;
 
-        setTitle("FIDNESS - Iniciar Sesión");
+        setTitle("FIDNESS - Acceso al Sistema");
         setSize(360, 240);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
